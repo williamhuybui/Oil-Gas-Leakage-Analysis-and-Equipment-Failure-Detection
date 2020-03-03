@@ -1,6 +1,6 @@
 # Rolling in the Deep
 
-Description: A journey from oil leakage to applying AI to predict equipment failure
+Description: A journey from oil leakage to applying AI to predict equipment failures
 
 ** Project status: ** Completed
 
@@ -30,5 +30,7 @@ Description: A journey from oil leakage to applying AI to predict equipment fail
 
 ## Result
 
-All of the results can be found in the medium post! However, the visualizations are all static. For interactive graphs, go to `Accident_visulization.ipynb` and execute the file.
+All of the results can be found in the [medium post](https://medium.com/@williamhuybui/rolling-in-the-deep-589f3460960f)
+
+However, the visualizations are all static. For interactive graphs, go to `Accident_visulization.ipynb` and execute the file.
 
